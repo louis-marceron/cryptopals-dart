@@ -1,4 +1,4 @@
-import 'package:cryptopals_dart/challenge_1.dart';
+import 'package:cryptopals_dart/challenge_01.dart';
 import 'package:test/test.dart';
 
 void main() {
